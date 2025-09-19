@@ -1,2 +1,3 @@
 "Pushing a text file into Github!" 
 This line was added from GitHub
+"This is another text added from local repo" 
